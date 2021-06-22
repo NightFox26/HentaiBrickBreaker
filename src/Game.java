@@ -85,12 +85,12 @@ public class Game extends JPanel implements ActionListener, KeyListener{
 		}		
 		
 		if(levelPassed) {
-			g.drawString("Girl's fucked !", Main.width/2 - 120, 250);
-			g.drawString("Press 'enter' to fuck next one !", Main.width/2 -  225, 290);
+			g.drawString("Girl's saved !", Main.width/2 - 120, 250);
+			g.drawString("Press 'enter' to saved next one !", Main.width/2 -  225, 290);
 			
 			g.setColor(Color.orange);
-			g.drawString("Girl's fucked !", Main.width/2 - 120-2, 250-2);
-			g.drawString("Press 'enter' to fuck next one !", Main.width/2 - 225-2, 290-2);
+			g.drawString("Girl's saved !", Main.width/2 - 120-2, 250-2);
+			g.drawString("Press 'enter' to save next one !", Main.width/2 - 225-2, 290-2);
 		}			
 		
 		if(gameWin) {
