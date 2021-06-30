@@ -44,7 +44,7 @@ public class Game extends JPanel implements ActionListener, KeyListener{
 	private int barreYpos;
 	private int barreWidth = 100;
 	
-	private int maxNbImages = 25;
+	private int maxNbImages = 16;
 	private BufferedImage imgHentaiInit;
 	private BufferedImage imgHentaiBlurry;
 	private Bricks bicks;	

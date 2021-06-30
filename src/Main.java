@@ -14,7 +14,7 @@ public class Main {
 		JFrame panel = new JFrame();
 		panel.getContentPane().setBackground(color);
 		panel.setBounds(0,0, width, height);
-		panel.setTitle("Hentai Brick Breaker ---- By NightFox26 ---- For Kabuki Bro !!!");
+		panel.setTitle("Brick Breaker ---- By NightFox26");
 		panel.setAlwaysOnTop(true);
 		panel.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		panel.setLocationRelativeTo(null);
