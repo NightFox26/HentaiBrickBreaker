@@ -1,4 +1,4 @@
-# HentaiBrickBreaker
+# MangaBrickBreaker
 
 Jeu créé en Java, l'image devient nette lorsque l'on casse des briques.
 
